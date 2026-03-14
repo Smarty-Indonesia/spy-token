@@ -1,0 +1,104 @@
+[27-Oct-2021 20:34:47 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:34:47 Asia/Jakarta] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 15
+[27-Oct-2021 20:34:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:35:54 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:35:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 18
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Warning:  Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 23
+[27-Oct-2021 20:36:19 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 23
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Warning:  Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 23
+[27-Oct-2021 20:36:46 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 23
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Warning:  Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 21
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 23
+[27-Oct-2021 20:36:50 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 23
+[27-Oct-2021 20:38:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:38:51 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:38:51 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:38:54 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 20:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:38:54 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 19
+[27-Oct-2021 20:42:48 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 20:42:48 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 30
+[27-Oct-2021 21:05:59 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 21:05:59 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 30
+[27-Oct-2021 21:06:43 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:07:16 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:07:22 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 21:07:22 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 29
+[27-Oct-2021 21:07:37 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 21:09:17 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:09:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:10:08 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:14:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 21:14:52 Asia/Jakarta] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 29
+[27-Oct-2021 21:14:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 32
+[27-Oct-2021 21:15:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 21:15:39 Asia/Jakarta] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 29
+[27-Oct-2021 21:15:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 32
+[27-Oct-2021 21:15:44 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 26
+[27-Oct-2021 21:15:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 32
+[27-Oct-2021 21:19:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/smah1237/public_html/spy-token.io/webhook/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 23
+[27-Oct-2021 21:19:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/smah1237/public_html/spy-token.io/webhook/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 23
+[27-Oct-2021 21:20:47 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:21:48 Asia/Jakarta] PHP Notice:  Undefined index: result in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:22:00 Asia/Jakarta] PHP Notice:  Undefined index: result in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:22:05 Asia/Jakarta] PHP Notice:  Undefined index: result in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:22:10 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:22:33 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:22:46 Asia/Jakarta] PHP Notice:  Undefined index: result in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:23:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/smah1237/public_html/spy-token.io/webhook/api.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:23:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/smah1237/public_html/spy-token.io/webhook/api.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:24:44 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12
+[27-Oct-2021 21:27:48 Asia/Jakarta] PHP Notice:  Undefined variable: array in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 20
+[27-Oct-2021 21:27:48 Asia/Jakarta] PHP Notice:  Undefined variable: response_data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 28
+[27-Oct-2021 21:28:03 Asia/Jakarta] PHP Notice:  Undefined variable: response_data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 28
+[27-Oct-2021 21:28:47 Asia/Jakarta] PHP Warning:  Illegal string offset 'result' in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 25
+[27-Oct-2021 21:30:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 20
+[27-Oct-2021 21:31:24 Asia/Jakarta] PHP Notice:  Undefined variable: response_data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 22
+[27-Oct-2021 21:31:24 Asia/Jakarta] PHP Notice:  Undefined variable: response_data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 23
+[27-Oct-2021 21:31:24 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 23
+[27-Oct-2021 21:31:28 Asia/Jakarta] PHP Notice:  Undefined variable: response_data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 22
+[27-Oct-2021 21:31:28 Asia/Jakarta] PHP Notice:  Undefined variable: response_data in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 23
+[27-Oct-2021 21:31:28 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 23
+[27-Oct-2021 21:36:09 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:36:09 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:36:26 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:36:26 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:36:44 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:36:44 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:37:20 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 24
+[27-Oct-2021 21:39:03 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 38
+[27-Oct-2021 21:39:03 Asia/Jakarta] PHP Notice:  Trying to get property 'result' of non-object in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 38
+[27-Oct-2021 21:39:37 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/smah1237/public_html/spy-token.io/webhook/api.php on line 38
+[29-Oct-2021 08:12:10 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$data in /home/smah1237/public_html/spy-token.io/webhook/webhook.php on line 12

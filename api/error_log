@@ -1,0 +1,22 @@
+[28-Jul-2022 11:11:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u0243318_card88'@'localhost' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 6
+[28-Jul-2022 11:11:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/spytoken/public_html/spytokenio/api/conn.php on line 6
+[28-Jul-2022 11:17:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:17:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u0243318_card88'@'smartyshop.smartyshop.co.id' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:18:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u0243318_card88'@'smartyshop.smartyshop.co.id' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:18:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u0243318_card88'@'smartyshop.smartyshop.co.id' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:19:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:19:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u0243318_card88'@'smartyshop.smartyshop.co.id' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:19:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u0243318_card88'@'smartyshop.smartyshop.co.id' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:21:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:23:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:24:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:24:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:26:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u0243318_card88'@'localhost' (using password: YES) in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:27:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:29:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:38:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:39:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 7
+[28-Jul-2022 11:53:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 6
+[28-Jul-2022 11:54:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/spytoken/public_html/spytokenio/api/conn.php on line 13
+[28-Jul-2022 12:01:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/spytoken/public_html/spytokenio/api/conn.php on line 6
+[28-Jul-2022 12:04:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/spytoken/public_html/spytokenio/api/conn.php on line 15

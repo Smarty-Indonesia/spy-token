@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteRule ^/?$ /index.php
+RewriteRule ^roadmap/?$ /roadmap.php
+RewriteRule ^whitepaper/?$ /assets/file/whitepaper_smartypay_april_2022.pdf
+RewriteRule ^faq/?$ /faq.php
+RewriteRule ^disclaimer/?$ /disclaimer.php
+RewriteRule ^buy-spy/?$ /buy-spy.php
+
+#Far Future Expires Header
+<FilesMatch "\.(gif|png|jpg|svg|js|css|scss|pdf)$">
+    ExpiresActive On
+    ExpiresDefault "modification"
+</FilesMatch>
+

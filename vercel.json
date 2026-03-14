@@ -1,0 +1,24 @@
+{
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@0.9.0"
+    }
+  },
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/", "dest": "/api/index.php" },
+    { "src": "/buy-spy", "dest": "/api/buy-spy.php" },
+    { "src": "/disclaimer", "dest": "/api/disclaimer.php" },
+    { "src": "/faq", "dest": "/api/faq.php" },
+    { "src": "/roadmap", "dest": "/api/roadmap.php" },
+    { "src": "/whitepaper", "dest": "/api/whitepaper.php" },
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1.php"
+    },
+    {
+      "src": "/((?!assets/|css/|js/|favicon.ico).*)",
+      "dest": "/api/index.php"
+    }
+  ]
+}
