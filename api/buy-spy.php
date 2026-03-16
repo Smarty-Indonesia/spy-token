@@ -25,9 +25,6 @@ $pagetitle = 'Buy SPY';
 <!DOCTYPE html>
 <html lang="en">
 <head><?php include('includes/head.php') ?>
-  <style>
-    .services .icon-box:hover a { background: #8c8a8a; }
-  </style>
 </head>
 <body>
 

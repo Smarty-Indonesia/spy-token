@@ -915,6 +915,10 @@ section {
   color: #47b2e4;
 }
 
+.services .icon-box:hover a .btn-disabled {
+  background: #8c8a8a;
+}
+
 .services .btn-get-started {
   font-family: "Jost", sans-serif;
   font-weight: 500;
