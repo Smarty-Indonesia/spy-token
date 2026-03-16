@@ -72,8 +72,8 @@ $pagetitle = 'Buy SPY';
             <div class="icon-box">
               <img src="../assets/img/buy/bkex.png" style="width:250px; border-radius:20px">
               <h4>www.bkex.com</h4>
-              <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['1']['converted_last']['usd']), 4, ".", ",") ?></p>
-              <p>Volume: <?php echo number_format(($data['tickers']['1']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['1']['converted_volume']['usd']), 2, ".", ",") ?></p>
+              <!-- <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['1']['converted_last']['usd']), 4, ".", ",") ?></p>
+              <p>Volume: <?php echo number_format(($data['tickers']['1']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['1']['converted_volume']['usd']), 2, ".", ",") ?></p> -->
 			        <a href="https://www.bkex.com/trade/SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
@@ -81,8 +81,8 @@ $pagetitle = 'Buy SPY';
             <div class="icon-box">
               <img src="../assets/img/buy/cointiger.png" style="width:250px; border-radius:20px">
               <h4>www.cointiger.com (off since: 2024)</h4>
-              <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['3']['converted_last']['usd']), 4, ".", ",") ?></p>
-              <p>Volume: <?php echo number_format(($data['tickers']['3']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['3']['converted_volume']['usd']), 2, ".", ",") ?></p>
+              <!-- <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['3']['converted_last']['usd']), 4, ".", ",") ?></p>
+              <p>Volume: <?php echo number_format(($data['tickers']['3']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['3']['converted_volume']['usd']), 2, ".", ",") ?></p> -->
 			        <a href="#" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
@@ -90,8 +90,6 @@ $pagetitle = 'Buy SPY';
             <div class="icon-box">
               <img src="../assets/img/buy/xt.jpg" style="width:250px; border-radius:20px">
               <h4><a href="https://www.xt.com/" target="_blank">xt.com</a></h4>
-              <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['4']['converted_last']['usd']), 4, ".", ",") ?></p>
-              <p>Volume: <?php echo number_format(($data['tickers']['4']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['4']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://www.xt.com/en/trade/spy_usdt" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
@@ -102,8 +100,6 @@ $pagetitle = 'Buy SPY';
             <div class="icon-box">
               <img src="../assets/img/buy/mexcglobal.png" style="width:250px; border-radius:20px">
               <h4><a href="https://www.mexc.com/" target="_blank">www.mexc.com</a></h4>
-              <p>Price: <?php echo "USD ".number_format(($data['tickers']['5']['converted_last']['usd']), 4, ".", ",") ?></p>
-              <p>Volume: <?php echo number_format(($data['tickers']['5']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['5']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://www.mexc.com/exchange/BTC_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
@@ -111,8 +107,6 @@ $pagetitle = 'Buy SPY';
             <div class="icon-box">
               <img src="../assets/img/buy/hotbit.png" style="width:250px; border-radius:20px">
               <h4>www.hotbit.io (closed: 2023)</h4>
-              <p>Price: <?php echo "USD ".number_format(($data['tickers']['6']['converted_last']['usd']), 4, ".", ",") ?></p>
-              <p>Volume: <?php echo number_format(($data['tickers']['6']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['6']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="#" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
