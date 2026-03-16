@@ -75,7 +75,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <img src="../assets/img/buy/bkex.png" style="width:250px; border-radius:20px">
-              <h4>www.bkex.com </h4> 
+              <h4>bkex.com </h4> 
               <p style="font-style: italic">(update: off since 2023)</p>
               <!-- <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['1']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['1']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['1']['converted_volume']['usd']), 2, ".", ",") ?></p> -->
@@ -85,7 +85,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <img src="../assets/img/buy/cointiger.png" style="width:250px; border-radius:20px">
-              <h4>www.cointiger.com</h4>
+              <h4>cointiger.com</h4>
               <p style="font-style: italic">(update: off since 2024)</p>
               <!-- <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['3']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['3']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['3']['converted_volume']['usd']), 2, ".", ",") ?></p> -->
@@ -105,14 +105,14 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <img src="../assets/img/buy/mexcglobal.png" style="width:250px; border-radius:20px">
-              <h4><a href="https://www.mexc.com/" target="_blank">www.mexc.com</a></h4>
+              <h4><a href="https://www.mexc.com/" target="_blank">mexc.com</a></h4>
 			        <a href="https://www.mexc.com/exchange/BTC_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <img src="../assets/img/buy/hotbit.png" style="width:250px; border-radius:20px">
-              <h4>www.hotbit.io</h4>
+              <h4>hotbit.io</h4>
               <p style="font-style: italic">(update: off since 2023)</p>
 			        <a class="btn-disabled scrollto">Buy | USDT</a>
             </div>
@@ -120,7 +120,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <img src="../assets/img/buy/bitforex.png" style="width:250px; border-radius:20px">
-              <h4>www.bitforex.com</h4>
+              <h4>bitforex.com</h4>
               <p style="font-style: italic">(update: off since 2024)</p>
 			        <a class="btn-disabled scrollto">Buy | USDT</a>
             </div>
@@ -128,7 +128,7 @@ $pagetitle = 'Buy SPY';
 		      <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <img src="../assets/img/buy/coinsbit.png" style="width:250px; border-radius:20px">
-              <h4>www.coinsbit.io</h4>
+              <h4>coinsbit.io</h4>
               <p style="font-style: italic">(update: off since 2025)</p>
               <a class="btn-disabled scrollto">Buy | USDT</a>
               <a class="btn-disabled scrollto">Buy | BNB</a>
@@ -147,7 +147,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <img src="../assets/img/buy/digiasset.jpg" style="width:250px; border-radius:20px">
-              <h4>www.digiassetindo.com</h4>
+              <h4>digiassetindo.com</h4>
               <p style="font-style: italic">(update: off since 2023)</p>
               <a class="btn-disabled scrollto">Buy | IDR</a>
               <a class="btn-disabled scrollto">Buy | USDT</a>
