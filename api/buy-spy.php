@@ -128,7 +128,8 @@ $pagetitle = 'Buy SPY';
 		      <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <img src="../assets/img/buy/coinsbit.png" style="width:250px; border-radius:20px">
-              <h4>www.coinsbit.io</a></h4>
+              <h4>www.coinsbit.io</h4>
+              <p style="font-style: italic">(update: off since 2025)</p>
               <a class="btn-disabled scrollto">Buy | USDT</a>
               <a class="btn-disabled scrollto">Buy | BNB</a>
             </div>
