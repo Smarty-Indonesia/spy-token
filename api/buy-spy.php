@@ -62,7 +62,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <img src="../assets/img/buy/latoken.png" style="width:250px; border-radius:20px">
-              <h4>latoken.com</h4>
+              <h4><a href="https://latoken.com/" target="_blank">latoken.com</a></h4>
               <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['2']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['2']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['2']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://latoken.com/exchange/SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
@@ -81,7 +81,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <img src="../assets/img/buy/cointiger.png" style="width:250px; border-radius:20px">
-              <h4>www.cointiger.com</h4>
+              <h4><a href="https://cointiger.io/" target="_blank">cointiger.io</a></h4>
               <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['3']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['3']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['3']['converted_volume']['usd']), 2, ".", ",") ?></p>
 
@@ -91,7 +91,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <img src="../assets/img/buy/xt.jpg" style="width:250px; border-radius:20px">
-              <h4>www.xt.com</h4>
+              <h4><a href="https://www.xt.com/" target="_blank">xt.com</a></h4>
               <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['4']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['4']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['4']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://www.xt.com/trade/spy_usdt" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
@@ -103,7 +103,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <img src="../assets/img/buy/mexcglobal.png" style="width:250px; border-radius:20px">
-              <h4>www.mexc.com</h4>
+              <h4><a href="https://www.mexc.com/" target="_blank">www.mexc.com</a></h4>
               <p>Price: <?php echo "USD ".number_format(($data['tickers']['5']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['5']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['5']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://www.mexc.com/exchange/SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
@@ -112,7 +112,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <img src="../assets/img/buy/hotbit.png" style="width:250px; border-radius:20px">
-              <h4>www.hotbit.io</h4>
+              <h4>www.hotbit.io (closed: 2023)</h4>
               <p>Price: <?php echo "USD ".number_format(($data['tickers']['6']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['6']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['6']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://www.hotbit.io/exchange?symbol=SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
@@ -121,14 +121,14 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <img src="../assets/img/buy/bitforex.png" style="width:250px; border-radius:20px">
-              <h4>www.bitforex.com</h4>
+              <h4><a href="https://www.bitforex.com/" target="_blank">www.bitforex.com</a></h4>
 			        <a href="https://www.bitforex.com/en/spot/spy_usdt" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
 		      <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <img src="../assets/img/buy/coinsbit.png" style="width:250px; border-radius:20px">
-              <h4><a href="">coinsbit.io</a></h4>
+              <h4><a href="https://coinsbit.io/" target="_blank">coinsbit.io</a></h4>
               <a href="https://coinsbit.io/trade_classic/SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
               <a href="https://coinsbit.io/trade_classic/SPY_BNB" target="_blank" class="btn-get-started scrollto">Buy | BNB</a>
             </div>
@@ -139,7 +139,7 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <img src="../assets/img/buy/digifinex.png" style="width:250px; border-radius:20px">
-              <h4>www.digifinex.com</h4>
+              <h4><a href="https://www.digifinex.com/en-ww" target="_blank">digifinex.com</a></h4>
 			        <a href="https://www.digifinex.com/en-ww/trade/USDT/SPY" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
