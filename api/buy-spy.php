@@ -64,7 +64,7 @@ $pagetitle = 'Buy SPY';
               <img src="../assets/img/buy/latoken.png" style="width:250px; border-radius:20px">
               <h4><a href="https://latoken.com/" target="_blank">latoken.com</a></h4>
               <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['2']['converted_last']['usd']), 4, ".", ",") ?></p>
-              <p>Volume: <?php echo number_format(($data['tickers']['2']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['2']['converted_volume']['usd']), 2, ".", ",") ?></p>
+              <p>Volume: <?php echo number_format(($data['tickers']['3']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['2']['converted_volume']['usd']), 2, ".", ",") ?></p>
 			        <a href="https://latoken.com/exchange/SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
