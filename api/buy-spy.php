@@ -1,5 +1,5 @@
 <?php 
-$url='https://api.coingecko.com/api/v3/simple/price?ids=smarty-pay&vs_currencies=idr%2Cusd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&include_last_updated_at=true';
+$url='https://api.coingecko.com/api/v3/coins/smarty-pay?localization=false&tickers=true&market_data=false&community_data=false&developer_data=false&sparkline=false';
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);
