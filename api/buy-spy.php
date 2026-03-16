@@ -81,11 +81,11 @@ $pagetitle = 'Buy SPY';
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <img src="../assets/img/buy/cointiger.png" style="width:250px; border-radius:20px">
-              <h4><a href="https://cointiger.io/" target="_blank">cointiger.io</a></h4>
+              <h4>www.cointiger.io</h4>
               <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['3']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['3']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['3']['converted_volume']['usd']), 2, ".", ",") ?></p>
 
-			        <a href="https://www.cointiger.com/en-us/#/trade_center?coin=spy_usdt" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
+			        <a href="#" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
@@ -94,7 +94,7 @@ $pagetitle = 'Buy SPY';
               <h4><a href="https://www.xt.com/" target="_blank">xt.com</a></h4>
               <p>Today's Price: <?php echo "USD ".number_format(($data['tickers']['4']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['4']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['4']['converted_volume']['usd']), 2, ".", ",") ?></p>
-			        <a href="https://www.xt.com/trade/spy_usdt" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
+			        <a href="https://www.xt.com/en/trade/spy_usdt" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
         </div>
@@ -106,7 +106,7 @@ $pagetitle = 'Buy SPY';
               <h4><a href="https://www.mexc.com/" target="_blank">www.mexc.com</a></h4>
               <p>Price: <?php echo "USD ".number_format(($data['tickers']['5']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['5']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['5']['converted_volume']['usd']), 2, ".", ",") ?></p>
-			        <a href="https://www.mexc.com/exchange/SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
+			        <a href="https://www.mexc.com/exchange/BTC_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
@@ -115,7 +115,7 @@ $pagetitle = 'Buy SPY';
               <h4>www.hotbit.io (closed: 2023)</h4>
               <p>Price: <?php echo "USD ".number_format(($data['tickers']['6']['converted_last']['usd']), 4, ".", ",") ?></p>
               <p>Volume: <?php echo number_format(($data['tickers']['6']['volume']), 2, ".", ",") ?> ~ <?php echo "USD ".number_format(($data['tickers']['6']['converted_volume']['usd']), 2, ".", ",") ?></p>
-			        <a href="https://www.hotbit.io/exchange?symbol=SPY_USDT" target="_blank" class="btn-get-started scrollto">Buy | USDT</a>
+			        <a href="#" class="btn-get-started scrollto">Buy | USDT</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
