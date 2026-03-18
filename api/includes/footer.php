@@ -54,7 +54,7 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Smarty Pay</span></strong>. All Rights Reserved
+        &copy; Copyright <strong> 2020-2024 <span>Smarty Pay</span></strong>. All Rights Reserved
       </div>
     </div>
   </footer><!-- End Footer -->
