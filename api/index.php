@@ -415,28 +415,10 @@ $pagetitle = 'Home';
 					window.getSelection().addRange(r);
 					document.execCommand('copy');
 					window.getSelection().removeAllRanges();
+          alert("✅ Smart Contract sudah di copy");
 					}
 			</script>
-			
-			
-			<!--
-			<p class="word-wrap" id="smart-contract-tokie">0x01872b5f0003f6E209B9BA4d0045487Bd6f67AC0</p>
-			<button class="cta-btn align-middle">
-				<a onclick="CopyToClipboard1()">Copy Smart Contract</a>
-			</button>
-			<script>
-				function CopyToClipboard1()
-					{
-					var r = document.createRange();
-					r.selectNode(document.getElementById("smart-contract-tokie"));
-					window.getSelection().removeAllRanges();
-					window.getSelection().addRange(r);
-					document.execCommand('copy');
-					window.getSelection().removeAllRanges();
-					}
-			</script>
-			-->
-			
+						
         </div>
       </div>
     </section>
